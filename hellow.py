@@ -1,1 +1,2 @@
-print("Hello DEVOPS week one")
+print("Hello DEVOPS")
+print("Nice to be here")
